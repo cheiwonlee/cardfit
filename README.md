@@ -3,6 +3,8 @@
 연말정산 카드 소득공제를 모르는 사람에게 "신용카드와 체크카드를 각각 얼마나 써야 하는지"를
 눈금 하나로 보여주는 계산기.
 
+**라이브:** [https://cardfit-two.vercel.app/](https://cardfit-two.vercel.app/)
+
 세금을 최대한 아끼게 해주는 서비스가 아니라, **언제 신경 쓸 필요가 없는지까지 정확히 알려주는**
 서비스다. 문턱을 못 넘긴 사용자에게는 "아무 카드나 쓰세요"라고 말한다.
 
@@ -16,6 +18,8 @@ npm run build    # dist/ 생성
 ```
 
 ## 배포 (Vercel)
+
+현재 배포 주소: [https://cardfit-two.vercel.app/](https://cardfit-two.vercel.app/)
 
 깃허브에 올린 뒤 Vercel에서 저장소를 선택하면 끝이다. Vite 프로젝트로 자동 인식된다.
 
